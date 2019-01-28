@@ -1,4 +1,4 @@
-# TestElsProject
+# els-back
 
 This project was generated with [SPRING INITIALIZR](https://start.spring.io/).
 
