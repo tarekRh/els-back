@@ -1,0 +1,49 @@
+[
+  {
+    "salariedId": "1",
+    "firstName": "Luka",
+    "lastName": "MODIRIC",
+    "tel": "0600000000"
+  },
+  {
+    "salariedId": "1",
+    "firstName": "Toni",
+    "lastName": "KROUS",
+    "tel": "0600000001"
+  },
+  {
+    "salariedId": "3",
+    "firstName": "Luka",
+    "lastName": "RONALDO",
+    "tel": "0600000002"
+  },
+  {
+    "salariedId": "4",
+    "firstName": "Sergio",
+    "lastName": "KROUS",
+    "tel": "0600000000"
+  },{
+    "salariedId": "1",
+    "firstName": "Luka",
+    "lastName": "MODIRIC",
+    "tel": "0600000000"
+  },
+  {	
+    "salariedId": "5",
+    "firstName": "Toni",
+    "lastName": "KROUS",
+    "tel": "0600000001"
+  },
+  {
+    "salariedId": "6",
+    "firstName": "Cristiano",
+    "lastName": "RONALDO",
+    "tel": "0600000002"
+  },
+  {
+    "salariedId": "7",
+    "firstName": "Sergio",
+    "lastName": " RAMOS",
+    "tel": "0600000000"
+  }
+]

@@ -1,0 +1,8 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb://localhost:27017
+            database: salaries-db
+input:
+     file:
+         path: /json/salaries.json
